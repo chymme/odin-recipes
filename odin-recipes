@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin recipes</title>
+  </head>
+   
+  <link href="index.css" rel="stylesheet">
+
+  <body>
+
+    <div class="body">
+      <div class="title">
+        <h2>The Odin recipes</h2>
+      </div>
+
+      <div class="button-div">
+        <button onclick="location.href='cheesecake.html'" type="button">
+          Strawberry cheesecake</button> 
+        <button onclick="location.href='brownies.html'" type="button">
+          Fudgy cocoa brownies</button>
+        <button onclick="location.href='applepie.html'" type="button">
+         Classic apple pie</button>
+      </div>
+
+    </div>
+
+  </body>
+</html>
